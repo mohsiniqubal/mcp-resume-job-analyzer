@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.sqlite3
+data/analyses.sqlite3
+.streamlit/secrets.toml
+data/*.pdf

@@ -1,0 +1,9 @@
+AI Engineer Intern
+
+We are looking for an AI Engineer Intern with knowledge of:
+Python, JavaScript, Node.js, LLMs, FastAPI, Docker, Podman,
+MCP, AI workflow environments, statistics and data.
+
+The role involves building and testing AI software, working with
+LLMs, building MCP tools, developing APIs and evaluating model
+effectiveness.

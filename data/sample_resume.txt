@@ -1,0 +1,22 @@
+Mohsin Iqubal
+Data Science and AI professional
+
+Skills:
+Python, SQL, FastAPI, PostgreSQL, LangChain, Groq LLM, RAG,
+Machine Learning, Scikit-learn, XGBoost, React.js, Git, GitHub,
+Pandas, TensorFlow
+
+Experience:
+Data Science and AI Consultant Intern. Built predictive analytics
+solutions and AI applications.
+
+Projects:
+Built an AI Customer Complaint Management System using React.js,
+FastAPI, PostgreSQL, LangChain and an LLM.
+Built a document processing and grounded chat system.
+
+Education:
+Master of Computer Application (MCA)
+
+Certifications:
+NPTEL and IABAC certifications.
